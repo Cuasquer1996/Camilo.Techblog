@@ -342,41 +342,6 @@ article img {
 */
 
 /**
-* css del boton - hacia - arriba.
---------------------------------------------------------
---------------------------------------------------------
-*/
-
-#boton-up {
-    width: 50px;
-    height: 50px;
-    background: darkblue;
-    color: white;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    border-radius: 50%;
-    font-size: 25px;
-    position: fixed;
-    bottom: 50px;
-    right: 50px;
-    cursor: pointer;
-    border: 4px solid transparent;
-    transition: all 300ms ease;
-}
-
-#boton-up:hover {
-    transform: scale(1.1);
-    border-color: rgba(0,0,0,0.1);
-}
-/**
-* fin - del - css del boton - hacia - arriba.
---------------------------------------------------------
---------------------------------------------------------
-*/
-
-
-/**
 * Inicio - colores - iconos - footer.
 ---------------------------------------------------------
 ---------------------------------------------------------
